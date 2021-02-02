@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/First-React-Live_Demo/static/css/main.5aace536.chunk.css",
+    "main.js": "/First-React-Live_Demo/static/js/main.fa1a3094.chunk.js",
+    "main.js.map": "/First-React-Live_Demo/static/js/main.fa1a3094.chunk.js.map",
+    "runtime-main.js": "/First-React-Live_Demo/static/js/runtime-main.7e8ef2f4.js",
+    "runtime-main.js.map": "/First-React-Live_Demo/static/js/runtime-main.7e8ef2f4.js.map",
+    "static/css/2.150d169a.chunk.css": "/First-React-Live_Demo/static/css/2.150d169a.chunk.css",
+    "static/js/2.c2300a30.chunk.js": "/First-React-Live_Demo/static/js/2.c2300a30.chunk.js",
+    "static/js/2.c2300a30.chunk.js.map": "/First-React-Live_Demo/static/js/2.c2300a30.chunk.js.map",
+    "static/js/3.af8477e2.chunk.js": "/First-React-Live_Demo/static/js/3.af8477e2.chunk.js",
+    "static/js/3.af8477e2.chunk.js.map": "/First-React-Live_Demo/static/js/3.af8477e2.chunk.js.map",
+    "index.html": "/First-React-Live_Demo/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/First-React-Live_Demo/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.5aace536.chunk.css.map": "/First-React-Live_Demo/static/css/main.5aace536.chunk.css.map",
+    "static/js/2.c2300a30.chunk.js.LICENSE.txt": "/First-React-Live_Demo/static/js/2.c2300a30.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e8ef2f4.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.c2300a30.chunk.js",
+    "static/css/main.5aace536.chunk.css",
+    "static/js/main.fa1a3094.chunk.js"
+  ]
+}
